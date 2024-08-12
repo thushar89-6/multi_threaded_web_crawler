@@ -1,0 +1,29 @@
+But note: Many of the applications and Web3 building blocks are still in their infancy. Some are more theoretical than actual.
+
+Web3 Internet is a technological innovation over Web 2.0—today’s Internet—because it gives digital control and privacy back to Internet users. Web3 visionaries see user empowerment and digital sovereignty as core values.
+
+Have you ever pondered how the Internet works? And we’re not just talking about Web 2.0 —today’s Internet of search engines, corporate websites, social media, and ultra-useful information sites like Encyclopædia Britannica —but tomorrow’s Internet. It’s called Web 3.0 or Web3, and it’s a blockchain -based Internet that uses decentralized technology to operate.
+
+What is Web3?
+
+Web3 Internet uses blockchain technology—the same technology that underpins Bitcoin and other cryptocurrencies—to make the decentralized Internet more secure and private. Web3 systems are technology protocols controlled by computer code to facilitate direct and secure communications among users, applications, and data. Blockchain technology, decentralized data storage, and peer-to-peer networking are the necessary components of a decentralized Internet.
+
+Web3 advocates are excited about the potential of Web3 technology to make the Internet more user-centric. Web3 can potentially democratize financial systems by removing centralized decision-makers and geographic borders from the Internet.
+
+Web 2.0 vs. Web 3.0 (and do you remember Web 1.0)?
+
+Web2 is what you know as the Internet today—a social place that enables you to easily interact with content and people. If you’re old enough to remember the Internet before Amazon, YouTube, and iPhones, then you may remember that the first version of the Internet, Web1, was read-only.
+
+Here’s how the Web3 cheerleaders see the Internet evolving from today’s Web2 in terms of data control, commercial applications, data security, and other features.
+
+Data ownership. Web2 platforms like Google and Facebook own and control the data created by users who access their platforms. Web3 places ownership and control of data solely with Internet users, who can decide exactly how their data is used.
+
+Monetization. Web2 platforms leverage their ownership of user data to make money by charging digital advertisers for access to targeted audiences. A Web3 protocol uses cryptocurrency to incentivize individual users everywhere to operate the platform. Web3 users can leverage the technology to monetize their products and services by transacting directly with other peers on the network.
+
+Security. Have you ever been informed that your data was exposed in a security breach? Centralized Web2 servers can be vulnerable to malicious attacks. Fully decentralized networks offer the promise of greater safety.
+
+Censorship resistance. How important is free speech? The centralized nature of a Web2 platform makes it possible to censor and restrict access to the platform’s content. Web3 Internet protocols resist censorship by enabling the decentralized generation and distribution of information.
+
+Reliance on trust. Would you conduct business online using just any website? Centralized Web2 platforms need users to trust them to operate successfully. Web3 technology can support trustless systems—protocols that use blockchain technology to eliminate the need for faith in any counterparty.
+
+Points of failure. Centralized Internet platforms create single points of failure—a Web2 platform that experiences serious technical problems can impact many people. Web3 systems are decentrally operated and—by design—have no single point of failure.
